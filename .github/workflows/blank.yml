@@ -15,9 +15,13 @@ jobs:
       
       - name: Create File
         run: echo "Olá Mundo" > arquivo.txt
-  test: 
+  test:
     runs-on: ubuntu-latest
+    
+    needs: [build]
     steps:
+      - uses: actions/checkout@v2
+      
       - name: Check File
         run: ls -la
 
