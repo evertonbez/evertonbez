@@ -11,12 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: Create File
-        run: echo "Olá Mundo" > arquivo.txt
-        
-      - name: Upload file
-        uses: actions/upload-artifact@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          name: arquivo
-          path: '*.txt'
+          ruby-version: '3.0'
+          bundler-cache: true
 
