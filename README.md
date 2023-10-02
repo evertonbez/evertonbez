@@ -3,7 +3,7 @@
 
 - ⚙️ I use daily: `.ts`, `.html`, `.css`
 - 🌍 I'm mostly active within the **JS Community**
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Typescript**
 - 👨‍💻 Current project [Pomme.ts](https://github.com/evertonbzr/pomme-ts/)
 
 ### 🤝🏻 Connect with Me
