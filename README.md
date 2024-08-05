@@ -15,7 +15,7 @@ I'm Everton Fernandes </h1>
 - 👨‍💻 Open source project [Pomme.Js](https://github.com/evertonbzr/pommejs)
 
 
-### 🤝🏻 Connect with Me
+#### Connect with Me
 &nbsp; &nbsp; &nbsp;
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/evertonfernandesbz)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/evertonfrnds/)
