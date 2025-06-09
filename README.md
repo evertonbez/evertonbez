@@ -3,7 +3,7 @@ I'm Everton Fernandes </h1>
 <h3 align="center">A Software Engineering Manager working from Brazil </h3>
 
 #### Bio
-- ⚙️ I use daily: `.ts`, `.html`, `.css`
+- ⚙️ I use daily: `.ts`, `.tsx`, `.html`, `.css`
 - 🌍 I'm mostly active within the **JS Community**
 - 🌱 Learning all about **Typescript**
 - 💪🏻 Strong knowloge on Backend development and Software development in General.
